@@ -14551,6 +14551,9 @@ section.ftco-section.ftco-no-pt.ftco-no-pb {
     flex-flow: wrap;
     gap: 40px;
   }
+  .owl-carousel.home-slider .slider-item .slider-text h1{
+font-size:60px
+}
 }
 
 
